@@ -7,7 +7,7 @@
 
     mkdir <имя директории>
     cd <имя директории>
-    git clone https://github.com/StepanovSerjant/Make-a-dir-for-ur-project-
+    git clone https://github.com/StepanovSerjant/AutoRepo
 
 <h2 style="text-align: center;">Запуск:</h2>
 <p>В папке config у меня уже создана дефолтная структура для маленьких web-проектов, чтобы понять как устроен скрипт (репозиторий будет создан в текущей директории) введите</p>
